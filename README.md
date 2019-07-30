@@ -45,7 +45,7 @@ _**Git**_ очень удобный инструмент программист�
  
 <hr>
 
-<h2 align = 'center'><a href = 'https://githowto.com/ru'><i>Git How To</i></a></h2>
+<h3 align = 'center'><a href = 'https://githowto.com/ru'><i>Git How To</i></a></h3>
 
 <hr>
 
